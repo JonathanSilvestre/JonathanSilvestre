@@ -80,7 +80,7 @@
 
 <div align='center'>
 
-## <b>thnx everybody✨</b>
+## <b>thank you everybody✨</b>
 
 </div>
 <br>
