@@ -29,7 +29,7 @@
 - **Languages**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
-    ![C#](https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png)
+    ![C#](https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/csharp.svg)
 
 <br>   
 
