@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi everyone im Jonathan Silvestre, im student of information technologies and systems👋
 
 <!--
 **JonathanSilvestre/JonathanSilvestre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
